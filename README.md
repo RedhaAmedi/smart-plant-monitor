@@ -4,8 +4,6 @@ A little project I made to keep an eye on my bougainvillea plant using an ESP32.
 
 I had a spare DHT22 sensor from an old project lying around, so I put it to good use here for temperature and humidity.
 
-![image](https://github.com/user-attachments/assets/113c1655-f983-4e8a-8c2d-840eafc0dce7)
-
 ---
 
 ## What’s inside
