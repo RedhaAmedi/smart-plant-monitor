@@ -1,6 +1,6 @@
 # 🌿 Smart Plant Monitor for Bougainvillea
 
-A little project I made to keep an eye on my bougainvillea plant using an ESP32. It measures soil moisture, temperature, humidity, and light - then sends updates straight to my Telegram so I don’t have to guess when it needs water or more sun.
+A little project I made to keep an eye on my bougainvillea plant using an ESP32. It measures soil moisture, temperature, humidity, and light, then sends updates straight to my Telegram so I don’t have to guess when it needs water or more sun.
 
 I had a spare DHT22 sensor from an old project lying around, so I put it to good use here for temperature and humidity.
 
